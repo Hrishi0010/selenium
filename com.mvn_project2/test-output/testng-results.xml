@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-18T09:18:02 IST" name="Default suite" finished-at="2024-04-18T09:18:42 IST" duration-ms="39848">
+    <groups>
+    </groups>
+    <test started-at="2024-04-18T09:18:02 IST" name="Default test" finished-at="2024-04-18T09:18:42 IST" duration-ms="39848">
+      <class name="com.shopper_stck.testScripts.delete_ddress_from_my_ddress">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.shopper_stck.testScripts.delete_ddress_from_my_ddress@3b0fe47a]" started-at="2024-04-18T09:18:02 IST" name="beforeSuite" finished-at="2024-04-18T09:18:02 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.shopper_stck.testScripts.delete_ddress_from_my_ddress@3b0fe47a]" started-at="2024-04-18T09:18:02 IST" name="beforeTest" finished-at="2024-04-18T09:18:02 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClss()[pri:0, instance:com.shopper_stck.testScripts.delete_ddress_from_my_ddress@3b0fe47a]" started-at="2024-04-18T09:18:03 IST" name="beforeClss" finished-at="2024-04-18T09:18:14 IST" duration-ms="11223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClss -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.shopper_stck.testScripts.delete_ddress_from_my_ddress@3b0fe47a]" started-at="2024-04-18T09:18:14 IST" name="beforeMethod" finished-at="2024-04-18T09:18:27 IST" duration-ms="13151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="delete_ddress()[pri:0, instance:com.shopper_stck.testScripts.delete_ddress_from_my_ddress@3b0fe47a]" started-at="2024-04-18T09:18:27 IST" name="delete_ddress" finished-at="2024-04-18T09:18:35 IST" duration-ms="7973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_ddress -->
+        <test-method is-config="true" signature="fterMethod()[pri:0, instance:com.shopper_stck.testScripts.delete_ddress_from_my_ddress@3b0fe47a]" started-at="2024-04-18T09:18:35 IST" name="fterMethod" finished-at="2024-04-18T09:18:40 IST" duration-ms="4502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fterMethod -->
+        <test-method is-config="true" signature="fterClss()[pri:0, instance:com.shopper_stck.testScripts.delete_ddress_from_my_ddress@3b0fe47a]" started-at="2024-04-18T09:18:40 IST" name="fterClss" finished-at="2024-04-18T09:18:42 IST" duration-ms="2694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fterClss -->
+        <test-method is-config="true" signature="fterTest()[pri:0, instance:com.shopper_stck.testScripts.delete_ddress_from_my_ddress@3b0fe47a]" started-at="2024-04-18T09:18:42 IST" name="fterTest" finished-at="2024-04-18T09:18:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fterTest -->
+        <test-method is-config="true" signature="fterSuite()[pri:0, instance:com.shopper_stck.testScripts.delete_ddress_from_my_ddress@3b0fe47a]" started-at="2024-04-18T09:18:43 IST" name="fterSuite" finished-at="2024-04-18T09:18:43 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fterSuite -->
+      </class> <!-- com.shopper_stck.testScripts.delete_ddress_from_my_ddress -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
