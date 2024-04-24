@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.shopper_stck.testScripts.delete_ddress_from_my_ddress">
+      <class name="com.shopper_stck.testScripts.shopper_stck_dd_ddresss">
         <methods>
-          <include name="delete_ddress"/>
-          <include name="fterMethod"/>
+          <include name="lunch_shopper_stck"/>
           <include name="beforeMethod"/>
+          <include name="fterMethod"/>
           <include name="beforeTest"/>
           <include name="beforeClss"/>
           <include name="beforeSuite"/>
@@ -15,7 +15,7 @@
           <include name="fterTest"/>
           <include name="fterSuite"/>
         </methods>
-      </class> <!-- com.shopper_stck.testScripts.delete_ddress_from_my_ddress -->
+      </class> <!-- com.shopper_stck.testScripts.shopper_stck_dd_ddresss -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

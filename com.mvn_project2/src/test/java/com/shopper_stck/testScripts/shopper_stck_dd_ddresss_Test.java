@@ -13,7 +13,7 @@ import com.shopperStg.POM.myProfilePge;
 import com.shopperStg.POM.myddressPge;
 
 @Listeners(listenersUtility.class)
-public class shopper_stck_dd_ddresss extends Bse_test {
+public class shopper_stck_dd_ddresss_Test extends Bse_test {
 	public String sheetnme = "Sheet1";
 
 	@Test(priority = 0)
