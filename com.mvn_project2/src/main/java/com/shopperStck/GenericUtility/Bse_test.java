@@ -62,6 +62,9 @@ public class Bse_test {
 		report = new ExtentReports();
 		report.attachReporter(extentR);
 		test = report.createTest("demo");
+//		String url = System.getProperty("url");
+
+//		String browser = System.getProperty("browser");
 
 		String url = fu.propertyFile("url");
 		String browser = fu.propertyFile("browser");
